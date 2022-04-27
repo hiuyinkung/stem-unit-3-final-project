@@ -1,0 +1,31 @@
+{
+    "name": "STEM Unit 3 Final Project",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "falling duck": "pub:12955-28221-05496-65710",
+        "servo": "*",
+        "sprite-scaling": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.8.22",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
